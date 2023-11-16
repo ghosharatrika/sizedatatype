@@ -1,3 +1,5 @@
+// This program displays the size of different datatypes
+
 #include <stdio.h>
 
 int main() {
